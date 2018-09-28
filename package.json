@@ -1,0 +1,27 @@
+{
+  "name": "red-contrib-tinkeros-gpio",
+  "version": "1.0.0",
+  "description": "This is a projects for node-red using tinker board for GPIO.",  "bundleDependencies": false,
+  "node-red": {
+    "nodes": {
+      	"asus gpio": "asus-gpio.js"
+    }
+  },
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinycore-hisanori/node-red-contrib-tinkeros-gpio.git"
+  },
+  "author": "tnycpre-hisanori",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tinycore-hisanori/node-red-contrib-tinkeros-gpio/issues"
+  },
+  "homepage": "https://github.com/tinycore-hisanori/node-red-contrib-tinkeros-gpio#readme",
+  "keywords": [
+    "node-red"
+  ]
+}
